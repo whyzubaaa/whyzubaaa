@@ -7,6 +7,7 @@
 *20 · Russia → China · Flutter · Next.js · Python · AI*
 
 [![Telegram](https://img.shields.io/badge/Telegram-@whyzubaaa-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/whyzubaaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zurab-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_URL)
 
 ![](https://komarev.com/ghpvc/?username=whyzubaaa&color=blue&style=flat)
 
