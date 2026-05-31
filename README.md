@@ -1,6 +1,6 @@
 <div align="center">
 
-# Зураб / Zurab 👋
+# Zurab 👋
 
 **Solo founder. Building products, not demos.**
 
