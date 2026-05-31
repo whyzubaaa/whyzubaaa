@@ -1,13 +1,12 @@
 <div align="center">
 
-# Hey, I'm Zuba 👋
+# Зураб / Zurab 👋
 
-**Building intelligent systems. One commit at a time.**
+**Solo founder. Building products, not demos.**
 
-*20 · Russia → China · Python · AI · Agents · Robotics*
+*20 · Russia → China · Flutter · Next.js · Python · AI*
 
 [![Telegram](https://img.shields.io/badge/Telegram-@whyzubaaa-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/whyzubaaa)
-[![Email](https://img.shields.io/badge/Email-Write-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ![](https://komarev.com/ghpvc/?username=whyzubaaa&color=blue&style=flat)
 
@@ -17,36 +16,41 @@
 
 ## About
 
-I'm a 20-year-old developer from Russia, currently based in China.  
-Studying e-commerce by day, building things with Python and AI by night.
+I'm a 20-year-old solo founder from Russia, based in China.  
+I don't build side projects — I build products. Three of them, currently.
 
-My focus: **AI agents**, **deep learning**, and eventually **robotics**.  
-Long-term goal: technology companies that change physical reality.
-
-Right now I'm at the beginning — learning fast, building small things, thinking big.
+No team. No VC. No excuses.
 
 ---
 
-## What I'm working on
+## Products I'm building
 
-| Area | Status |
-|------|--------|
-| 🐍 Python fundamentals | `In progress` |
-| 🤖 AI & LLM basics | `Exploring` |
-| 🧠 Machine Learning | `Next` |
-| 🦾 Robotics / Agents | `Target` |
+### 📦 AI Inventory Management SaaS
+`Next.js · Python · AI`  
+A SaaS tool for warehouse managers. The AI layer predicts demand, recommends what to reorder and when, and flags items to discontinue based on movement patterns. Currently in pre-launch — payment integration pending.
+
+---
+
+### 🚀 Grocery Delivery App
+`Flutter · Mobile`  
+A cross-platform mobile application for local grocery delivery. Built solo. Pre-release.
+
+---
+
+### 🀄 Chinese Learning Platform
+`Next.js · Web`  
+A web-based tool for learning Chinese. Built out of personal need — I'm learning the language myself while living in China.
 
 ---
 
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-*Adding more as I earn them.*
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -65,19 +69,26 @@ Right now I'm at the beginning — learning fast, building small things, thinkin
 
 ---
 
-## Principles
+## How I work
 
-> "The best way to predict the future is to build it."
+- One person, full stack — I make every decision and live with the consequences
+- I understand what runs in my code, not just that it runs
+- Products ship. Not someday — with a date.
 
-- Ship early, iterate fast
-- Document everything — for yourself in 6 months
-- No excuses for not understanding the fundamentals
-- Think in decades, work in weeks
+---
+
+## What's next
+
+| Direction | Why |
+|-----------|-----|
+| 🧠 Deep Learning | To stop using AI as a black box |
+| 🤖 Agents | Next evolution of the SaaS layer |
+| 🦾 Robotics | Long-term target |
 
 ---
 
 <div align="center">
 
-*Open to collaboration, feedback, and ambitious conversations.*
+*Building in China. Thinking globally. Open to serious conversations.*
 
 </div>
